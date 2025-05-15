@@ -1,0 +1,35 @@
+# Build directories
+build/
+Debug/
+Release/
+x64/
+
+# Temporary files
+temp_*
+*.tmp
+*.log
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# IDE specific files
+.vscode/
+.idea/
+*.vcxproj.user
+*.vcxproj.filters
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Output files
+results.txt
+all_test_results.txt
+output_results.txt
